@@ -8,7 +8,7 @@
 Bu modül, NodeJSle yerleşik bir modüldür. Sunucu oluşturmak ve bağlantıları kurarak sunucuyu ayağa kaldırmak için kullanılır. Bu bağlantılar sayesinde veri alım ve iletim gerçekleştirilebilir. Kod örneği aşağıdaki gibidir.  
 *Not:* 3000 portuna gönderdiğimiz için, çıktıyı localhost:3000'de kontrol edebiliriz.  
 
-<p align="center"> <img width=600  src ="https://github.com/berceou/FirstWeekAssignment/blob/main/serveup-nodejs/img/built-http-server.png"> </p> 
+<p align="center"> <img width=600  src ="https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev1-berceou/blob/main/serveup-nodejs/img/built-http-server.png"> </p> 
 
 
 
@@ -29,7 +29,7 @@ nmp install express
 ```  
 Tüm işlemler tamamlandıktan sonra üzerinde çalışacağımız *app.js* dosyasını oluşturmalıyız. Kod örnekleri aşağıdaki gibidir.  
 
-<p align="center"> <img width=600 src="https://github.com/berceou/FirstWeekAssignment/blob/main/serveup-nodejs/img/built-server-express.png"> 
+<p align="center"> <https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev1-berceou/blob/main/serveup-nodejs/img/built-server-express.png"> 
 
 > Öncelikle, express kütüphanesini yüklemek için yeni bir constant oluşturdum. Ve grab almak için de **require** kullandım.  
 > Daha sonra, uygulamayı saklamak için yeni bir constant oluşturdum. Bu sayede Express fonksiyonu bir argüman almak yerine uygulamaya sağlanan metotları kullanarak sunucuyu yapılandırmış oluyorum. Artık uygulamaya ne yapması gerektiğini atayabiliriz.  
