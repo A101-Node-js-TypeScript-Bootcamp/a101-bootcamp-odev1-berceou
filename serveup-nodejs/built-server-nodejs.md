@@ -29,7 +29,7 @@ nmp install express
 ```  
 Tüm işlemler tamamlandıktan sonra üzerinde çalışacağımız *app.js* dosyasını oluşturmalıyız. Kod örnekleri aşağıdaki gibidir.  
 
-<p align="center"> <https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev1-berceou/blob/main/serveup-nodejs/img/built-server-express.png"> 
+<p align="center"> <img width=600 sec="https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev1-berceou/blob/main/serveup-nodejs/img/built-server-express.png"> </p>
 
 > Öncelikle, express kütüphanesini yüklemek için yeni bir constant oluşturdum. Ve grab almak için de **require** kullandım.  
 > Daha sonra, uygulamayı saklamak için yeni bir constant oluşturdum. Bu sayede Express fonksiyonu bir argüman almak yerine uygulamaya sağlanan metotları kullanarak sunucuyu yapılandırmış oluyorum. Artık uygulamaya ne yapması gerektiğini atayabiliriz.  
