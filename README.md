@@ -1,5 +1,5 @@
 # TypeScript ve JavaScript Arasındaki Farklar
-Bu [yazı](https://github.com/berceou/FirstWeekAssignments/blob/main/Differences-between-TS-and-JS/Differences-between-TS-and-JS.md), genel olarak **TypeScript** ve **JavaScript** dilleri arasındaki kıyaslamayı içerir. Öncelikle, TypeScript ve JavaScript dillerinin genel özelliklerinden bahsedilip ardından özet olarak farklarını uygulamalı bir biçimde gösterilmiştir. Tablo kısa bir özeti yansıtır.   
+Bu [yazı](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev1-berceou/tree/main/Differences-between-TS-and-JS), genel olarak **TypeScript** ve **JavaScript** dilleri arasındaki kıyaslamayı içerir. Öncelikle, TypeScript ve JavaScript dillerinin genel özelliklerinden bahsedilip ardından özet olarak farklarını uygulamalı bir biçimde gösterilmiştir. Tablo kısa bir özeti yansıtır.   
 
 | **TypeScript** | **JavaScript** |  
 | ----------- | ------------- |  
@@ -14,7 +14,7 @@ Bu [yazı](https://github.com/berceou/FirstWeekAssignments/blob/main/Differences
 
 
 # HTTP Web Server Oluşturma
-Bu [yazı](https://github.com/berceou/FirstWeekAssignment/tree/main/serveup-nodejs), bir server nasıl ayağa kaldırır konusunu işler. NodeJS tabanlı HTTP web server oluşturulup çalıştırıldı. Express.js kullanmadan ve Express.js kullanarak olmak üzere iki şekilde uygulama yapılarak yöntemlerin adımları açıklanmıştır. Tablo kısa bir özeti yansıtır.  
+Bu [yazı](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev1-berceou/tree/main/serveup-nodejs), bir server nasıl ayağa kaldırır konusunu işler. NodeJS tabanlı HTTP web server oluşturulup çalıştırıldı. Express.js kullanmadan ve Express.js kullanarak olmak üzere iki şekilde uygulama yapılarak yöntemlerin adımları açıklanmıştır. Tablo kısa bir özeti yansıtır.  
 
 | **HTTP** | **Express** |  
 | --------- | ----------- |  
